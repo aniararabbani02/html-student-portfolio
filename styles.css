@@ -7,21 +7,21 @@
    ============================================ */
 
 :root {
-    --bg:           #fafaf7;
-    --surface:      #ffffff;
+    --bg:           #9affec;
+    --surface:      #f8b3e6;
     --text:         #1a1a2e;
     --text-muted:   #555570;
-    --accent:       #4f46e5;
-    --accent-hover: #4338ca;
+    --accent:       #ff83ff;
+    --accent-hover: #65fffa;
     --border:       #e5e5ed;
     --shadow:       0 2px 12px rgba(0, 0, 0, 0.05);
 }
 
 body.dark-mode {
     --bg:           #0f0f1a;
-    --surface:      #1a1a2e;
-    --text:         #f0f0f5;
-    --text-muted:   #a0a0b8;
+    --surface:      #63ffff;
+    --text:         #ff71bf;
+    --text-muted:   #fe65b4;
     --accent:       #818cf8;
     --accent-hover: #c7d2fe;
     --border:       #2a2a40;
